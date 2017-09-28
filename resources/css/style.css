@@ -31,12 +31,14 @@ border-bottom: 1px solid seashell;
 }
 .logo{
   display: flex;
+  justify-content: center;
   height: 50px;
 }
 header nav{
   display: inline-block;
   justify-content: space-between;
   padding-right: 40px;
+
 
 }
 
