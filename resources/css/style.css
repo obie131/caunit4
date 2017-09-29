@@ -131,6 +131,7 @@ header nav span {
 /* contact information  */
 .contact {
   height: 200px;
+  text-decoration: none;
 }
 
 /* footer */
