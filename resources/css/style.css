@@ -139,7 +139,7 @@ footer{
   padding-left: 20px;
   text-align: left;
   color: seashell;
-  background-image: url("resources/images/bedford-bizzare.jpg");
+
 
 
 
@@ -151,6 +151,10 @@ I cannot get a picture or video to display, when I attmept to link them
 from my resource file, like this:
   background-image: image("resources/images/bedford-bizzare.jpg");
   or
+  background-image: url("resources/images/bedford-bizzare.jpg");
+Am I doing something wrong?  This is the file path as you can see in Git/Github/Atom
 
 
+I also could not figure out why the right side of my header is off the page
+and cut's off the location link....
 */
