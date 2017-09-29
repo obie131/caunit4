@@ -139,4 +139,18 @@ footer{
   padding-left: 20px;
   text-align: left;
   color: seashell;
+  background-image: url("resources/images/bedford-bizzare.jpg");
+
+
+
 }
+
+
+/*  QUESTION I WOULD LIKE ANSWERED>
+I cannot get a picture or video to display, when I attmept to link them
+from my resource file, like this:
+  background-image: image("resources/images/bedford-bizzare.jpg");
+  or
+
+
+*/
