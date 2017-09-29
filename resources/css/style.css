@@ -37,6 +37,7 @@ background-color: black;
   height: 50px;
 }
 
+
 }
 header nav span{
   display: inline-block;
@@ -75,12 +76,23 @@ header nav span{
 
 .container2{
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   text-align: center;
   width: 1000px;
   height: 500px;
-  border: 1px solid seashell;
+
 }
+
+.item img{
+  display: block;
+  height: 200px;
+  width: 300px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+
+}
+
 
 
 /* container3 */
